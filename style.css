@@ -92,3 +92,8 @@ letter-spacing: 0.64px;
     font-size: 20px;
     font-weight: 600;
 }
+
+
+.cta-hire a{
+    text-decoration: none;
+}
