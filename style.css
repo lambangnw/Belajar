@@ -60,6 +60,17 @@ align-items: center;
     justify-content: center;
     align-items: center;
     gap: 64px;}
+
+.fotoku{
+    height: 240px;
+    width: 240px;
+    border-radius: 128px 128px 0px 128px;
+    background-color: #fafafa;
+    background-image: url(assets/top-profile.jpeg);
+    background-size: cover;
+    line-height: 24opx;
+}
+
 .tagline h1{
     text-align: center;
     font-family: Ubuntu;
