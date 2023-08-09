@@ -181,6 +181,9 @@ body {
   .header{
     padding: 24px 24px;
   }
+  .sosmed{
+    gap: 16px;
+  }
   .sosmed img{
     width: 20px;
   }
