@@ -52,11 +52,11 @@ body {
 .section-top {
   background-color: #171717;
   display: flex;
-  padding: 128px;
+  padding: 48px;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 64px;
+  gap: 32px;
 }
 
 .fotoku {
@@ -183,7 +183,7 @@ body {
   }
 .section-top{
   gap: 32px;
-  padding: 64px;
+  padding: 48px;
 }
 
 .tagline p{
