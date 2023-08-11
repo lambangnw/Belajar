@@ -69,19 +69,11 @@ body {
   line-height: 24opx;
 }
 
-.tagline h1 {
-  text-align: center;
-  font-family: Ubuntu;
-  font-size: 64px;
-  color: #ffff;
-  line-height: 120%; /* 76.8px */
-  letter-spacing: 0.64px;
-}
 
 .tagline p {
   font-family: Ubuntu;
-  font-size: 64px;
-  color: #f95a37;
+  font-size: 48px;
+  color: #fff;
   line-height: 120%; /* 76.8px */
   letter-spacing: 0.64px;
   text-align: center;
@@ -100,7 +92,6 @@ body {
 .cta-hire p {
   color: #ffff;
   font-size: 20px;
-  font-weight: 600;
 }
 
 .cta-hire a {
@@ -194,11 +185,9 @@ body {
   gap: 32px;
   padding: 64px;
 }
-.tagline h1{
-  font-size: 48px;
-}
+
 .tagline p{
-  font-size: 48px;
+  font-size: 36px;
 }
   .slide-content{
     flex-direction: column;
