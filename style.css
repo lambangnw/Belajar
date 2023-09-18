@@ -35,7 +35,7 @@ body {
   border: 2px solid #f95a37;
 }
 
-/* Responsive
+
 @media screen and (max-width: 768px) {
     .nav ul {width: 50%;}
     .top {width: 50%;
@@ -48,7 +48,6 @@ body {
    .img-top img{width: 70%;}
    .list-exp{flex-direction: row;
 }
-*/
 .section-top {
   background-color: #fffff;
   display: flex;
