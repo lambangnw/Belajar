@@ -7,6 +7,7 @@
 body {
   background: #fffff;
   width: 100%;
+  position: fixed;
 }
 
 .header {
@@ -35,19 +36,6 @@ body {
   border: 2px solid #f95a37;
 }
 
-
-@media screen and (max-width: 768px) {
-    .nav ul {width: 50%;}
-    .top {width: 50%;
-    font-size: 50%;}
-    .img-top img{width: 80%;}
-}
-@media screen and (max-width: 478px) {
-   .nav ul{ display: none;}
-   .top{display: none;}
-   .img-top img{width: 70%;}
-   .list-exp{flex-direction: row;
-}}
 .section-top {
   background-color: #fffff;
   display: flex;
